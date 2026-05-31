@@ -1,3 +1,3 @@
 this is my first pandas
 <br>
-auther - nitesh prajapat
+auther - nitesh kumar prajapat
